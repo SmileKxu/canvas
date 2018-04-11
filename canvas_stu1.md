@@ -93,4 +93,9 @@ arc()函数中的角度单位是弧度，不是度数。角度与弧度的js表�
 radians = (Math.PI/180)*degress
 ```
 
+### canvas 色彩
+若要对canvas图形上色，两个重要的属性就是: fillStyle 和 strokeStyle
+
+fillStyle = color 设置图形的填充颜色。
+strokeStyle  color 设置图形的轮廓的颜色
 
