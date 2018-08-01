@@ -8,7 +8,7 @@
 
 4. [展示H5](http://xj.bjsidao.com/boss10171023/index.html);
 
-5. [展示H5](4. [展示H5](http://xj.bjsidao.com/boss10171023/index.html);
+5. [展示H5](http://xj.bjsidao.com/boss10171023/index.html);
 
 6. [世界杯H5](http://wx.amo9.com/h5/public/gene/redir.do?proj=xsjf);
 
